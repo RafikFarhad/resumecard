@@ -2,7 +2,7 @@
 title: Rafik Farhad's CV 
 description: ======='s CV
 favicon: /assets/img/avatar.JPG
-baseurl: RafikFarhad.github.io
+baseurl: 
 url: RafikFarhad.github.io
 #rss_url: /pages/atom.xml
 #google_analytics: UA-63653234-1
@@ -21,7 +21,7 @@ author:
   link: RafikFarhad.github.io
   weibo:
   github: RafikFarhad
-  linkedin: rafikfarhad
+  linkedin: rafik-farhad-b6bb27103
   twitter: rafikfarhad
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
@@ -39,11 +39,29 @@ author:
     - education1:
       organization: Shahjalal University of Science & Technology
       location: Sylhet, Bangladesh
-      degree: BachelorComputer Science & Engineering
+      degree: Bachelor
       major: Computer Science & Engineering
       started: 2014
       duration: (2014 - 2018)
       description: Currently a student.
+    - education2:
+      organization: Brahmanbaria Govt. Collage
+      location: Brahmanbaria, Bangladesh
+      degree: Higher Secondary
+      major: Intermediate of Science
+      started: 2013
+      duration: (2011 - 2013)
+      description: 
+    - education3:
+      organization: Annada Govt. High School
+      location: Brahmanbaria, Bangladesh
+      degree: Primary, Secondary
+      major: 
+      started: 2001
+      duration: (2001 - 2011)
+      description: 
+
+
   languages:
     - language1:
       name: Bangla

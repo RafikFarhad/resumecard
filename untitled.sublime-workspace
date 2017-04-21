@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"single",
+				"single_loan1"
+			],
+			[
+				"sing",
+				"single_loan1"
+			],
+			[
+				"datat",
+				"datatables"
+			],
+			[
+				"data",
+				"datatable"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"loa",
+				"loan_number"
+			],
+			[
+				"laon",
+				"loan_number1"
+			],
+			[
+				"temp",
+				"temp_loan"
+			],
+			[
+				"exp",
+				"expiry_date"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"loan",
+				"loan_number1"
+			],
+			[
+				"lao",
+				"loan1"
+			],
+			[
+				"uniq",
+				"unique"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 292.0,
+		"last_filter": "vend",
+		"selected_items":
+		[
+			[
+				"vend",
+				"Laravel Artisan 5: Vendor:Publish"
+			],
+			[
+				"ve",
+				"Laravel Artisan 5: Vendor:Publish"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Controller"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/looser/RafikFarhad.github.io"
+	],
+	"file_history":
+	[
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/LendBook/lendbook.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/AddBook/addbook.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/Search/search.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/Status/status.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/RecieveBook/recievebook.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/WelcomePage/index.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/serve",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/LoanHistory/loanhistory.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/layouts/customapp.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/basic2.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/Search/temp2.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/Search/test.blade.php",
+		"/home/looser/Dropbox/farhad alif/Pustok/resources/views/layouts/app.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/home.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/HomeController.php",
+		"/home/looser/Desktop/Pustok/resources/views/Search/search.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/SearchController.php",
+		"/home/looser/Desktop/Pustok/composer.json",
+		"/home/looser/Desktop/Pustok/resources/views/layouts/app.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/Search/temp.blade.php",
+		"/home/looser/Desktop/Pustok/public/js/datatabletest.js",
+		"/home/looser/Desktop/Pustok/config/app.php",
+		"/home/looser/RafikFarhad.github.io/_config.yml",
+		"/home/looser/rafikfarhad.github.io/_config.yml",
+		"/home/looser/Dropbox/junk/Java/Main.java",
+		"/home/looser/Dropbox/NHSPC/Junior Final/A/output.out",
+		"/home/looser/Dropbox/NHSPC/upload/B/inp_1.in",
+		"/home/looser/Dropbox/NHSPC/upload/B/inp_2.in",
+		"/home/looser/Dropbox/NHSPC/Senior Final/F/output.out",
+		"/home/looser/Dropbox/NHSPC/Senior Final/A/output.out",
+		"/home/looser/Dropbox/NHSPC/Senior Final/A/output (BAIUST).out",
+		"/home/looser/Downloads/1 (1).txt",
+		"/home/looser/Downloads/0.txt",
+		"/home/looser/Downloads/0 (1).txt",
+		"/home/looser/Dropbox/NHSPC/upload/F/out.out",
+		"/home/looser/Downloads/0 (2).txt",
+		"/home/looser/Dropbox/NHSPC/upload/A/output_file_BAUIST.out",
+		"/home/looser/Desktop/000.txt",
+		"/home/looser/Desktop/needd",
+		"/home/looser/Downloads/0 (3).txt",
+		"/home/looser/rafikfarhad.github.io/_posts/2014-3-3-Hello-World.md",
+		"/home/looser/Downloads/1.txt",
+		"/home/looser/Desktop/Source code - Virtual Judge.html",
+		"/home/looser/Dropbox/forhad alif/tttt.php",
+		"/home/looser/Dropbox/junk/output.txt",
+		"/home/looser/Desktop/Pustok/resources/views/LendBook/lendbook.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/Status/status.blade.php",
+		"/home/looser/Desktop/Pustok/routes/web.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/statuscontroller.php",
+		"/media/looser/T3_SETUP/This is Read Only partition.txt",
+		"/media/looser/T3_SETUP/T3 Log In Activator for Android.txt",
+		"/home/looser/Desktop/Pustok/resources/views/WelcomePage/index.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/welcome.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/customregister.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/customregister.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/looser/Desktop/Pustok/resources/views/register.blade.php",
+		"/home/looser/Dropbox/Project_Pilot/Pilot/resources/views/auth/login.blade.php",
+		"/home/looser/Desktop/Pustok/resources/views/auth/register.blade.php",
+		"/home/looser/Desktop/Pustok/public/css/ex.css",
+		"/home/looser/Desktop/Pustok/resources/views/Expired/ExpiredPage.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/ExpiredPageController.php",
+		"/home/looser/Desktop/Pustok/resources/views/LoanHistory/loanhistory.blade.php",
+		"/home/looser/Desktop/Pustok/public/AddBook/assets/form-basic.css",
+		"/home/looser/Desktop/Pustok/public/css/app.css",
+		"/home/looser/Desktop/Metronic Admin Theme #2 _ Responsive Bootstrap Tables.html",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/ExpiredPage.php",
+		"/home/looser/Desktop/Pustok/resources/views/basic.blade.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/Helper.php",
+		"/home/looser/Desktop/Pustok/.gitignore",
+		"/home/looser/Dropbox/Topcoder/Arena/precode.txt",
+		"/home/looser/Dropbox/Project_Pilot/test.txt",
+		"/home/looser/Desktop/Event Time Announcer.html",
+		"/home/looser/Dropbox/Project_Pilot/abc test.txt",
+		"/home/looser/Desktop/tttt.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_082116_loans.php",
+		"/home/looser/Desktop/Pustok/resources/views/RecieveBook/recievebook.blade.php",
+		"/home/looser/Desktop/Pustok/public/robots.txt",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_212657_books.php",
+		"/home/looser/Desktop/Pustok/app/Loan.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_081601_create_loans_table.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_22_025201_loans.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_29_080448_Loan.php",
+		"/home/looser/Desktop/Pustok/public/000.txt",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/recievebookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/AddBook/addbook.blade.php",
+		"/home/looser/Desktop/test/kop.php",
+		"/home/looser/Desktop/test/kop.html",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/lendbookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/layouts/book_details.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/all_book_controller.php",
+		"/home/looser/Dropbox/Gronthagar stored/app/Http/Controllers/add_book_controller.php",
+		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/add_book.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/resources/views/all_book/book_view.blade.php",
+		"/home/looser/Dropbox/Gronthagar stored/routes/web.php",
+		"/home/looser/Desktop/Pustok/serve",
+		"/home/looser/Desktop/Jan's LightOJ __ Categorized Problems.html",
+		"/home/looser/Desktop/Jan's LightOJ __ User Statistics __ #define_SUST (22311).html",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/addbookcontroller.php",
+		"/home/looser/Desktop/Pustok/resources/views/auth/login.blade.php",
+		"/home/looser/Desktop/Pustok/app/Book.php",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-login.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/demo.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-basic.css",
+		"/home/looser/Desktop/Pustok/public/Login/assets/form-labels-on-top.css",
+		"/home/looser/Desktop/Pustok/.env",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/looser/Desktop/Pustok/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/looser/Desktop/Pustok/app/Http/Controllers/Auth/LoginController.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_212158_users.php",
+		"/home/looser/Desktop/Pustok/app/User.php",
+		"/home/looser/Desktop/Pustok/config/database.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/looser/Desktop/Pustok/database/migrations/2017_01_21_211636_users.php",
+		"/home/looser/Desktop/Pustok/.env.example",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/elements.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/index.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/WelcomePage/generic.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/config/app.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/CustomWelcome.blade.php",
+		"/home/rafikfarhad/Desktop/Pustok/resources/views/CustomWelcome.blase.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/looser/Desktop/Pustok/resources",
+			"/home/looser/Desktop/Pustok",
+			"/home/looser/Desktop/Pustok/vendor/laravel/framework/src/Illuminate"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"'",
+			"'\n",
+			",\n",
+			"loan_number1",
+			"my",
+			"th",
+			"body",
+			"5",
+			"status",
+			"expiredpage",
+			"expired",
+			"header-",
+			"header",
+			"post",
+			"get",
+			"Happy",
+			"Auth",
+			"home",
+			"ho",
+			"home",
+			"email",
+			"logi",
+			"');\n",
+			"lara",
+			"app",
+			".css\"",
+			".js\"",
+			"img/",
+			"img",
+			"<link",
+			"link",
+			"HTML",
+			"link",
+			"images",
+			"asse",
+			"WelcomePage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"td",
+			"POST",
+			"GET",
+			"regno",
+			"/WelcomePage"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
