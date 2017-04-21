@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Rafik Farhad's CV 
+description: ======='s CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+baseurl: RafikFarhad.github.io
+url: RafikFarhad.github.io
+#rss_url: /pages/atom.xml
+#google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,59 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Rafik Farhad
+  title: Student, ACM Programmer
+  address: Sylhet, Bangladesh
+  email: rafikfarhad@gmail.com
+  link: RafikFarhad.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: RafikFarhad
+  linkedin: rafikfarhad
+  twitter: rafikfarhad
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
+      company: SUST Science Arena
+      location: SUST, Sylhet
+      title: Organization Secretary
+      started: 2016
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: SUST Science Arena (SSA) is a scince based voluntary organization in Shahjalal University 		of Science & Technology.
+
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Shahjalal University of Science & Technology
+      location: Sylhet, Bangladesh
+      degree: BachelorComputer Science & Engineering
+      major: Computer Science & Engineering
+      started: 2014
+      duration: (2014 - 2018)
+      description: Currently a student.
   languages:
     - language1:
-      name: Chinese
+      name: Bangla
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Hindi
+      proficiency: Professional
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: C++
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: JAVA
+      percentage: 50%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: PHP
+      percentage: 50%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: LARAVEL
+      percentage: 50%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: JavaFX
+      percentage: 80%
