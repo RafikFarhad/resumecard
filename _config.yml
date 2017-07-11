@@ -1,6 +1,6 @@
 # Site settings
-title: Rafik Farhad's CV 
-description: ======='s CV
+title: Rafik Farhad
+description: Rafik Farhad
 favicon: /assets/img/avatar.JPG
 baseurl: 
 url: RafikFarhad.github.io
@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Rafik Farhad
-  title: Student, ACM Programmer
+  title: Student, ACM Programmer, Trainee Software Engineer, Web Developper
   address: Sylhet, Bangladesh
   email: rafikfarhad@gmail.com
   link: RafikFarhad.github.io
@@ -25,15 +25,24 @@ author:
   twitter: rafikfarhad
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow: 6189461
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: SUST Science Arena
       location: SUST, Sylhet
+      title: Vice President
+      started: 2017
+      duration: (2017 - Present)
+      description: SUST Science Arena (SSA) is a science based voluntary organization in Shahjalal University of Science & Technology.
+
+    - work2:
+      company: SUST Science Arena
+      location: SUST, Sylhet
       title: Organization Secretary
       started: 2016
-      duration: (2014 - Present)
+      duration: (2016 - 2017)
       description: SUST Science Arena (SSA) is a science based voluntary organization in Shahjalal University of Science & Technology.
+
+
 
   educationHistory:
     - education1:
@@ -81,10 +90,10 @@ author:
       percentage: 50%
     - skill3:
       name: PHP
-      percentage: 50%
+      percentage: 60%
     - skill4:
       name: LARAVEL
-      percentage: 50%
+      percentage: 75%
     - skill5:
       name: JavaFX
       percentage: 80%
